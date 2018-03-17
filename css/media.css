@@ -1,0 +1,18 @@
+@media (max-width:768px){.lead{font-size:13px}
+h1,.h1{font-size:20px}
+.navbar-inverse .navbar-nav > li > a{font-size:14px;padding-bottom:10px;padding-top:3px;}
+.navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{max-height:none}
+.slider .lead{font-size:11px;margin-bottom:-10px;}
+.slider .lead{font-size:8px}
+.slider .btn{font-size:10px;margin-bottom:-40px;}
+.slider .carousel-indicators li{width:12px;height:8px;}
+.slider .carousel-indicators .active{width:12px;height:8px;}
+.slider .carousel-indicators{bottom:-13px;}
+.slider .carousel-inner, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img{height:300px !important;}
+.slider .carousel-caption{bottom:110px !important;}
+.about h1{font-size:21px}
+.touch .form-control{margin:20px 49px;font-size:21px;}
+.thum{text-align:center}
+.over-loading #loading_container{left:-0%!important;}
+.over-loading .spinner div{height:61% !important;padding-right:10px!important;width:1px!important;}
+}

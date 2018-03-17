@@ -1,0 +1,43 @@
+﻿ 
+ .navbar-inverse .navbar-nav > .active > a, 
+.navbar-inverse .navbar-nav > .active > a:hover, 
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.navbar-inverse .navbar-nav .open .dropdown-menu .divider,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus,
+.option-box .check-gear,
+.option-box .color-option ul li,
+.slider .carousel-indicators .active 
+{
+	background-color: MediumVioletRed ;
+}
+
+.footer h3,
+.footer .copyright span,
+.about h2 span,
+.navbar-inverse .navbar-brand span
+{
+	color: MediumVioletRed 
+}
+
+.dropdown-menu,
+.option-box .color-option
+{
+	border-top: 3px solid MediumVioletRed ;
+}
+
+.slider .carousel-indicators li
+{
+	border: 1.5px solid MediumVioletRed ;
+}
+
+.testimonials .carousel-indicators .active 
+{
+	border: 5px solid MediumVioletRed ;
+}
+
+
+
