@@ -240,8 +240,12 @@ ul.social-links li a:hover {
 .port,
 .con,
 .about-me {
-    background-image: url(../images/star-bg.svg) center no-repeat;
-    background-size: cover;
+    background-image: url(../images/star-bg.svg),linear-gradient(#191c20, #24292e 15%) ; 
+    background-repeat: repeat-x;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
 	min-height: 694px;
 	background-color: #22272B;
 	color: #fff;
@@ -502,7 +506,7 @@ h2:after {
 }
 
 .over-loading {
-	background: #222222;
+	background: #22272B;
 	position: fixed;
 	left: 0;
 	top: 0;
